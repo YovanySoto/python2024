@@ -1,0 +1,21 @@
+body *{
+    font-family: "Roboto", sans-serif;
+}
+body{
+    font-family: "Raleway",sans-serif;
+}
+nav {
+    background: #28A745;
+}
+header{
+    background-image: url('../img/bg-hero.jpg');
+}
+#trabajos{
+    background-color:white;
+}
+footer{
+    background-color: white;
+}
+#form{
+    background-color: #28A745;
+}
